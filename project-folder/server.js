@@ -1,3 +1,9 @@
+/**
+ * Acknowledgement:
+ * This code was developed with the assistance of ChatGPT.
+ * ChatGPT was used to provide guidance on code structure.
+ */
+
 const http = require('http');
 const url = require('url');
 const fs = require('fs');
